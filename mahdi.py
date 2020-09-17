@@ -1,4 +1,4 @@
-print("amir0")
+print("ali")
 print("akbar")
 print("amin")
 #amir reza
