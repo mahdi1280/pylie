@@ -1,5 +1,5 @@
 print("amir0")
-print("akbar")
+print("mahdi")
 print("amin")
 #amir reza
 #mahdikarimi
